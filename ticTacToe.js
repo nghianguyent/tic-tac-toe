@@ -1,3 +1,5 @@
+
+// main
 let state = 1;
 let count = 0;
 let arr = [
